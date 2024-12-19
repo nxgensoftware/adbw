@@ -1,8 +1,6 @@
 # (Not yet) Portable utility designed to aid in connecting ADB wireless devices designed in C++
 
-___
 ## TODO (not in order of priority):
-___
 
 #### [&ensp;] Release dependencies (integrate avahi & dig directly into source)
 ##### &emsp;[&ensp;] avahi
